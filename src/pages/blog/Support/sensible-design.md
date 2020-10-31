@@ -1,5 +1,5 @@
 ---
-image_position: left
+image_position: right
 template: post
 title: Sensible Design
 subtitle: Modeling Classification Challenges for Self-Testing
