@@ -167,7 +167,9 @@ sections:
         icon_position: right
         new_window: false
         type: action
-    video_embed_html: ''
+    video_embed_html: >-
+      <script async src="https://telegram.org/js/telegram-widget.js?12"
+      data-telegram-post="humanestandards/4" data-width="100%"></script>
     media_position: top
     media_width: fifty
     align: center
