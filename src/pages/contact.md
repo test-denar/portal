@@ -201,7 +201,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Facebook
-        subtitle: lorem-ipsum
+        subtitle: Be part of our Global Family
         title_align: left
         content: >-
           ## Lorem ipsum
