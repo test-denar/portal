@@ -185,7 +185,7 @@ sections:
     subtitle: Broadcasting on Telegram
     features:
       - title: ''
-        subtitle: lorem-ipsum
+        subtitle: ''
         content: >-
           ## Lorem ipsum
 
