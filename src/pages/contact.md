@@ -161,8 +161,7 @@ sections:
       - title: Business
         subtitle: LinkedIn
         title_align: left
-        content: >-
-          https://www.linkedin.com/feed/update/urn:li:activity:6656680167911501824
+        content: ''
         content_align: left
         actions:
           - label: Follow
