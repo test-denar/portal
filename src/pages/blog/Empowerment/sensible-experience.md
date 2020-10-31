@@ -1,18 +1,18 @@
 ---
-image_position: top
+image_position: left
 template: post
 title: Sensible Experience
 subtitle: Input Feedback Ingredients for Self-Description
-date: 2020-10-28T22:00:00.000+00:00
+date: '2020-10-28T22:00:00.000+00:00'
 author: src/data/team/adam-apricot.yaml
 categories:
-- src/data/categories/ingredients.yaml
+  - src/data/categories/ingredients.yaml
 tags: []
-excerpt: Sensible Experience is a Passive form of Observation surrounding the Potential
+excerpt: >-
+  Sensible Experience is a Passive form of Observation surrounding the Potential
   Value of the Static in Time Past.
-thumb_image: "/images/HE Main Pic.jpg"
-image: "/images/HE Main Pic.jpg"
-
+thumb_image: /images/HE Main Pic.jpg
+image: /images/HE Main Pic.jpg
 ---
 > Three Distinguished States of Existence, take on the form of what we Observe as the Past, Present, and Future.
 
