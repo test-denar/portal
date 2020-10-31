@@ -164,7 +164,15 @@ sections:
         content: >-
           https://www.linkedin.com/feed/update/urn:li:activity:6656680167911501824
         content_align: left
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            type: action
         actions_align: left
         actions_width: auto
         image_position: top
