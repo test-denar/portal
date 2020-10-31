@@ -207,7 +207,7 @@ sections:
         content_align: left
         actions:
           - label: Like
-            url: lorem-ipsum
+            url: 'https://www.facebook.com/humanestandards'
             style: link
             has_icon: false
             icon: facebook
