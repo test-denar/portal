@@ -206,7 +206,7 @@ sections:
         content: ''
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Like
             url: lorem-ipsum
             style: link
             has_icon: false
