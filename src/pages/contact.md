@@ -134,7 +134,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: Other wa
     actions: []
     grid_items: []
     grid_cols: two
