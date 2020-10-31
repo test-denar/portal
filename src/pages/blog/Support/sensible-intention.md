@@ -1,18 +1,18 @@
 ---
-image_position: top
+image_position: right
 template: post
 title: Sensible Intention
 subtitle: Deployment Control Topics for Self-Consensus
-date: 2020-10-28T22:00:00.000+00:00
+date: '2020-10-28T22:00:00.000+00:00'
 author: src/data/team/adam-apricot.yaml
 categories:
-- src/data/categories/topics.yaml
+  - src/data/categories/topics.yaml
 tags: []
-excerpt: Sensible Intention is the Experimental Research surrounding the Potential
+excerpt: >-
+  Sensible Intention is the Experimental Research surrounding the Potential
   Value of the Future
 thumb_image: images/HI Main Pic.jpg
 image: images/HI Main Pic.jpg
-
 ---
 > Sensible Intention is the Experimental Research surrounding the Potential Value of the Future, and its Symbolic Terminals are the Left Hand and Foot.
 
