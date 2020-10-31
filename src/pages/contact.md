@@ -211,7 +211,7 @@ sections:
             style: link
             has_icon: false
             icon: facebook
-            icon_position: right
+            icon_position: left
             new_window: false
             type: action
         actions_align: left
