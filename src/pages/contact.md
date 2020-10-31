@@ -138,7 +138,7 @@ sections:
     actions: []
     grid_items:
       - title: News & Updates
-        subtitle: Our Telegram
+        subtitle: Our Telegram Channel
         title_align: left
         content: ''
         content_align: left
