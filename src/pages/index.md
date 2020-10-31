@@ -196,7 +196,9 @@ sections:
 
           - dolor sit amet
         actions: []
-        video_embed_html: "Hello World! \U0001F30F\U0001F30D\U0001F30E We are Broadcasting Live from Planet Earth \U0001F601 Join our Family and Receive our News & Updates through this Channel."
+        video_embed_html: >-
+          <script async src="https://telegram.org/js/telegram-widget.js?12"
+          data-telegram-post="humanestandards/4" data-width="100%"></script>
         media_position: top
         media_width: fifty
         align: left
