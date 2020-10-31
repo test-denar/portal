@@ -183,7 +183,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     background_image: images/HI Main Pic.jpg
-  - title: our Community Channel
+  - title: Our Community Channel
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
