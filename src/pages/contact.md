@@ -41,7 +41,7 @@ sections:
   - title: Our Community Channel
     subtitle: Broadcasting on Telegram
     features:
-      - title: =
+      - title: ''
         subtitle: ''
         content: ''
         actions: []
