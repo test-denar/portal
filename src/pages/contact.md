@@ -137,7 +137,7 @@ sections:
     subtitle: More ways to Connect
     actions: []
     grid_items:
-      - title: Telegram
+      - title: News & Updates
         subtitle: Broadcasting on Telegram
         title_align: left
         content: >-
