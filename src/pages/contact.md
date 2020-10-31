@@ -236,7 +236,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - title: Medium
-    subtitle: Explore our Publications
+    subtitle: Explore our Archived Publications
     content: >-
       ## Lorem ipsum
 
