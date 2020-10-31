@@ -185,7 +185,7 @@ sections:
         content: ''
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Subscribe
             url: 'https://www.youtube.com/channel/UCSNGXRE1MkXbUgKxxNcvjjw/'
             style: link
             has_icon: false
