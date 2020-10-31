@@ -159,7 +159,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Business
-        subtitle: lorem-ipsum
+        subtitle: LinkedIn
         title_align: left
         content: >-
           https://www.linkedin.com/feed/update/urn:li:activity:6656680167911501824
