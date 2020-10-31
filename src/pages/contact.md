@@ -134,7 +134,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - title: lorem-ipsum
-    subtitle: ''
+    subtitle: Broadcasting on Telegram
     features: []
     feature_padding_vert: medium
     align: center
