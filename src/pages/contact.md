@@ -247,9 +247,7 @@ sections:
 
       - dolor sit amet
     actions: []
-    video_embed_html: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    video_embed_html: ''
     media_position: top
     media_width: fifty
     align: left
