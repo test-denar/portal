@@ -147,7 +147,7 @@ sections:
             url: 'https://t.me/humanestandards'
             style: link
             has_icon: true
-            icon: arrow-left
+            icon: arrow-right
             icon_position: right
             new_window: true
             type: action
