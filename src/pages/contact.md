@@ -144,7 +144,7 @@ sections:
         content_align: left
         actions:
           - label: Connect
-            url: lorem-ipsum
+            url: 'https://t.me/humanestandards'
             style: link
             has_icon: false
             icon: arrow-left
