@@ -244,7 +244,7 @@ sections:
         style: link
         has_icon: false
         icon: arrow-right
-        icon_position: right
+        icon_position: left
         new_window: false
         type: action
     video_embed_html: ''
