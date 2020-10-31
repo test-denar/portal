@@ -137,7 +137,7 @@ sections:
     subtitle: More ways to Connect
     actions: []
     grid_items:
-      - title: Telegram Channel
+      - title: Telegram
         subtitle: lorem-ipsum
         title_align: left
         content: >-
