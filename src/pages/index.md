@@ -184,7 +184,7 @@ sections:
     type: hero_section
     background_image: images/HI Main Pic.jpg
   - title: Our Community Channel
-    subtitle: lorem-ipsum
+    subtitle: Broadcasting on Telegram
     features: []
     feature_padding_vert: medium
     align: center
