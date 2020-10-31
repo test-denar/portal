@@ -41,7 +41,7 @@ sections:
   - title: Our Community Channel
     subtitle: Broadcasting on Telegram
     features:
-      - title: Welcome
+      - title: =
         subtitle: lorem-ipsum
         content: ''
         actions: []
