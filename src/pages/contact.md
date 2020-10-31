@@ -165,7 +165,7 @@ sections:
         content_align: left
         actions:
           - label: Follow
-            url: lorem-ipsum
+            url: 'https://www.linkedin.com/company/humanestandards/'
             style: link
             has_icon: true
             icon: linkedin
