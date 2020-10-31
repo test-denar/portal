@@ -239,7 +239,7 @@ sections:
     subtitle: Explore our Archived Publications
     content: ''
     actions:
-      - label: lorem-ipsum
+      - label: Read
         url: lorem-ipsum
         style: link
         has_icon: false
