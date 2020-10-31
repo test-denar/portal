@@ -1,17 +1,16 @@
 ---
-image_position: top
+image_position: left
 template: post
 title: Sensible Attention
 subtitle: Indexing Evaluation Journals for Self-Adaptation
-date: 2020-10-28T22:00:00.000+00:00
+date: '2020-10-28T22:00:00.000+00:00'
 author: src/data/team/adam-apricot.yaml
 categories:
-- src/data/categories/journals.yaml
+  - src/data/categories/journals.yaml
 tags: []
 excerpt: Sensible Attention is a Momentum of Presence
-thumb_image: "/images/HA Main Pic.jpg"
-image: "/images/HA Main Pic.jpg"
-
+thumb_image: /images/HA Main Pic.jpg
+image: /images/HA Main Pic.jpg
 ---
 The 2nd State of the Humane Standards, measures our Sensible Attention as a Momentum of Presence. That Attentive kind of Logic concerning our Resources, can be Sensed as:
 
