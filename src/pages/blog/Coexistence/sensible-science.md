@@ -1,5 +1,5 @@
 ---
-image_position: left
+image_position: right
 template: post
 title: Sensible Science
 subtitle: Memory Allocation Recipes for Self-Control
