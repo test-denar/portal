@@ -140,11 +140,7 @@ sections:
       - title: News & Updates
         subtitle: Broadcasting on Telegram
         title_align: left
-        content: >-
-          <abbr title="Click to Connect"><script async
-          src="https://telegram.org/js/telegram-widget.js?12"
-          data-telegram-post="humanestandards/4"
-          data-width="100%"></script></abbr>
+        content: ''
         content_align: left
         actions: []
         actions_align: left
