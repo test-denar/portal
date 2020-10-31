@@ -186,15 +186,7 @@ sections:
     features:
       - title: ''
         subtitle: ''
-        content: >-
-          ## Lorem ipsum
-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: ''
         actions: []
         video_embed_html: >-
           <script async src="https://telegram.org/js/telegram-widget.js?12"
