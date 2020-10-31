@@ -252,7 +252,7 @@ sections:
     media_width: fifty
     align: left
     padding_top: medium
-    padding_bottom: medium
+    padding_bottom: none
     has_border: false
     background_color: secondary
     background_image_opacity: 0
