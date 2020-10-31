@@ -1,17 +1,16 @@
 ---
 image_position: top
 template: post
-title: Sensible Time
+title: Sensible Times
 subtitle: Output Feedback Rituals for Self-Predictions
-date: 2020-10-28T22:00:00.000+00:00
+date: '2020-10-28T22:00:00.000+00:00'
 author: src/data/team/adam-apricot.yaml
 categories:
-- src/data/categories/rituals.yaml
+  - src/data/categories/rituals.yaml
 tags: []
 excerpt: Sensible Time is a way to approach our own nature Responsibly.
-thumb_image: "/images/hs_time_cover.jpg"
-image: "/images/hs_time_cover.jpg"
-
+thumb_image: /images/hs_time_cover.jpg
+image: /images/hs_time_cover.jpg
 ---
 > In Life, time is a symbolic expression of what is to be forgiven and forgotten, and there is actually nothing that needs to be done.
 
