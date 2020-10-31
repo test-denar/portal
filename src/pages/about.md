@@ -133,7 +133,7 @@ sections:
     actions: []
     grid_items:
       - title: Practice
-        subtitle: ''
+        subtitle: Coming Soon
         title_align: left
         content: ''
         content_align: left
