@@ -212,7 +212,7 @@ sections:
             has_icon: false
             icon: facebook
             icon_position: left
-            new_window: false
+            new_window: true
             type: action
         actions_align: left
         actions_width: auto
