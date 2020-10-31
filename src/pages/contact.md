@@ -159,7 +159,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: LinkedIn
-        subtitle: Join our Professional Base
+        subtitle: Join our Professional Page
         title_align: left
         content: ''
         content_align: left
