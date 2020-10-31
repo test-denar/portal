@@ -186,7 +186,7 @@ sections:
         content_align: left
         actions:
           - label: lorem-ipsum
-            url: lorem-ipsum
+            url: 'https://www.youtube.com/channel/UCSNGXRE1MkXbUgKxxNcvjjw/'
             style: link
             has_icon: false
             icon: arrow-left
