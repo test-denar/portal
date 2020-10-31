@@ -1,17 +1,16 @@
 ---
-image_position: top
+image_position: left
 template: post
 title: Sensible Design
 subtitle: Modeling Classification Challenges for Self-Testing
-date: 2020-10-28T22:00:00.000+00:00
+date: '2020-10-28T22:00:00.000+00:00'
 author: src/data/team/adam-apricot.yaml
 categories:
-- src/data/categories/challenges.yaml
+  - src/data/categories/challenges.yaml
 tags: []
 excerpt: Design is the Character of a Function and it is an act of Governance.
-thumb_image: "/images/HD Main Pic.jpg"
-image: "/images/HD Main Pic.jpg"
-
+thumb_image: /images/HD Main Pic.jpg
+image: /images/HD Main Pic.jpg
 ---
 Humane and therefore Sensible Design is a Scientific Practice of meta-Governance which can be applied in all domains and levels of life.
 
