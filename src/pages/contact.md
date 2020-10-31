@@ -169,7 +169,7 @@ sections:
             url: lorem-ipsum
             style: link
             has_icon: true
-            icon: arrow-left
+            icon: linkedin
             icon_position: right
             new_window: false
             type: action
