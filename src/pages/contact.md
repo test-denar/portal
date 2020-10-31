@@ -133,7 +133,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - title: lorem-ipsum
+  - title: Our Channels
     subtitle: More ways to Connect
     actions: []
     grid_items: []
