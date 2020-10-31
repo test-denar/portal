@@ -237,15 +237,7 @@ sections:
     type: grid_section
   - title: Medium
     subtitle: Explore our Archived Publications
-    content: >-
-      ## Lorem ipsum
-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: ''
     actions: []
     video_embed_html: ''
     media_position: top
