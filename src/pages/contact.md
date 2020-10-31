@@ -138,7 +138,7 @@ sections:
     actions: []
     grid_items:
       - title: Telegram
-        subtitle: Our Commuity Channel
+        subtitle: Broadcasting on Telegram
         title_align: left
         content: >-
           <abbr title="Click to Connect"><script async
