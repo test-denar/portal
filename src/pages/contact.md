@@ -190,8 +190,8 @@ sections:
             style: link
             has_icon: false
             icon: youtube
-            icon_position: right
-            new_window: false
+            icon_position: left
+            new_window: true
             type: action
         actions_align: left
         actions_width: auto
