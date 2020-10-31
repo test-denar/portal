@@ -148,7 +148,7 @@ sections:
             style: link
             has_icon: true
             icon: arrow-right
-            icon_position: right
+            icon_position: left
             new_window: true
             type: action
         actions_align: left
