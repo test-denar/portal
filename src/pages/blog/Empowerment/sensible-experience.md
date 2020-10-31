@@ -1,5 +1,5 @@
 ---
-image_position: left
+image_position: right
 template: post
 title: Sensible Experience
 subtitle: Input Feedback Ingredients for Self-Description
