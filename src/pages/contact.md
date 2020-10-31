@@ -180,7 +180,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: YouTube
-        subtitle: lorem-ipsum
+        subtitle: Watch our Humane Standards Originals
         title_align: left
         content: >-
           ## Lorem ipsum
