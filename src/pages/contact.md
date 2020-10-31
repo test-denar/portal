@@ -170,7 +170,7 @@ sections:
             style: link
             has_icon: true
             icon: linkedin
-            icon_position: right
+            icon_position: left
             new_window: false
             type: action
         actions_align: left
