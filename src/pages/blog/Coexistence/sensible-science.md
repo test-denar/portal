@@ -1,18 +1,18 @@
 ---
-image_position: top
+image_position: left
 template: post
 title: Sensible Science
 subtitle: Memory Allocation Recipes for Self-Control
-date: 2020-10-28T22:00:00.000+00:00
+date: '2020-10-28T22:00:00.000+00:00'
 author: src/data/team/adam-apricot.yaml
 categories:
-- src/data/categories/recipes.yaml
+  - src/data/categories/recipes.yaml
 tags: []
-excerpt: Sensible Science is the Ethical Practice of Research that is Sensitive to
-  the Sensitivity of Life itself.
-thumb_image: "/images/hs-main-pic.jpg"
-image: "/images/hs-main-pic.jpg"
-
+excerpt: >-
+  Sensible Science is the Ethical Practice of Research that is Sensitive to the
+  Sensitivity of Life itself.
+thumb_image: /images/hs-main-pic.jpg
+image: /images/hs-main-pic.jpg
 ---
 > The Iterative and Persistent Inquiry into the True Nature of what we care most about is what constitutes Science. Sensible Science is the Ethical Practice of Research that is Sensitive to the Sensitivity of Life itself.
 
