@@ -143,7 +143,7 @@ sections:
         content: ''
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Connect
             url: lorem-ipsum
             style: link
             has_icon: false
