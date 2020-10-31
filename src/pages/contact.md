@@ -158,7 +158,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Business
+      - title: LinkedIn
         subtitle: LinkedIn
         title_align: left
         content: ''
