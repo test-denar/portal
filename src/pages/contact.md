@@ -238,7 +238,15 @@ sections:
   - title: Medium
     subtitle: Explore our Archived Publications
     content: ''
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        type: action
     video_embed_html: ''
     media_position: top
     media_width: fifty
