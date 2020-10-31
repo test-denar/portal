@@ -16,8 +16,6 @@ image: /images/HE Main Pic.jpg
 ---
 > Three Distinguished States of Existence, take on the form of what we Observe as the Past, Present, and Future.
 
-![](/images/one.png)
-
 **The 1st State constitutes Sensible Experience; a Passive form of Observation surrounding the Potential Value of the Static in Time Past.**
 
 ![](https://cdn-images-1.medium.com/max/906/1*9XiBZlo49_gD0YDzmaHEOQ.png)
