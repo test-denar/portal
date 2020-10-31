@@ -183,7 +183,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     background_image: images/HI Main Pic.jpg
-  - title: /our Channel
+  - title: our Channel
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
