@@ -189,7 +189,7 @@ sections:
             url: 'https://www.youtube.com/channel/UCSNGXRE1MkXbUgKxxNcvjjw/'
             style: link
             has_icon: false
-            icon: arrow-left
+            icon: youtube
             icon_position: right
             new_window: false
             type: action
