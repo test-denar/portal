@@ -184,7 +184,7 @@ sections:
   - title: Our Community Channel
     subtitle: Broadcasting on Telegram
     features:
-      - title: lorem-ipsum
+      - title: ''
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
