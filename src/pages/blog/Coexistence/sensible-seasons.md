@@ -1,18 +1,18 @@
 ---
-image_position: top
+image_position: left
 template: post
 title: Sensible Seasons
 subtitle: Output Feedback Rituals for Self-Predictions
-date: 2020-10-28T22:00:00.000+00:00
+date: '2020-10-28T22:00:00.000+00:00'
 author: src/data/team/adam-apricot.yaml
 categories:
-- src/data/categories/rituals.yaml
+  - src/data/categories/rituals.yaml
 tags: []
-excerpt: Sensible Science is the Ethical Practice of Research that is Sensitive to
-  the Sensitivity of Life itself.
-thumb_image: "/images/hs_seasons_cover.jpg"
-image: "/images/hs_seasons_cover.jpg"
-
+excerpt: >-
+  Sensible Science is the Ethical Practice of Research that is Sensitive to the
+  Sensitivity of Life itself.
+thumb_image: /images/hs_seasons_cover.jpg
+image: /images/hs_seasons_cover.jpg
 ---
 > To live a Happy and Fulfilling Life, we first have to address our Issues surrounding the Distribution, and Source of Value. No matter what kind of Resources we Process throughout our lives — so to find out what is Valuable to us — and our Beliefs concerning the Scales of these Values, **they all are of One Source**.
 
