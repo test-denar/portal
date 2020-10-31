@@ -242,10 +242,10 @@ sections:
       - label: Read
         url: 'https://medium.com/humane-standards'
         style: link
-        has_icon: false
+        has_icon: true
         icon: arrow-right
         icon_position: left
-        new_window: false
+        new_window: true
         type: action
     video_embed_html: ''
     media_position: top
