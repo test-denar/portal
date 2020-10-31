@@ -240,7 +240,7 @@ sections:
     content: ''
     actions:
       - label: Read
-        url: lorem-ipsum
+        url: 'https://medium.com/humane-standards'
         style: link
         has_icon: false
         icon: arrow-left
