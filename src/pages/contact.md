@@ -42,7 +42,7 @@ sections:
     subtitle: Broadcasting on Telegram
     features:
       - title: =
-        subtitle: lorem-ipsum
+        subtitle: ''
         content: ''
         actions: []
         video_embed_html: >-
