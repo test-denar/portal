@@ -1,79 +1,137 @@
 ---
-title: Contact
+title: Support
 sections:
   - type: hero_section
-    title: Get in touch
-    subtitle: >-
-      Have a question? Send us a note using the form below and we will be in
-      touch soon.
+    title: One of us
+    subtitle: 'All People, part of One Family'
     align: center
     padding_top: small
     padding_bottom: small
     has_border: true
-    background_color: none
+    background_color: primary
+    actions:
+      - label: ''
+        url: 'http://youtube.humanestandards.com/subscribe'
+        style: link
+        has_icon: true
+        icon: youtube
+        icon_position: center
+        new_window: false
+        type: action
+      - label: ''
+        url: 'https://www.facebook.com/humanestandards'
+        style: link
+        has_icon: true
+        icon: facebook
+        icon_position: center
+        new_window: false
+        type: action
+      - label: ''
+        url: 'https://www.linkedin.com/company/humanestandards/'
+        style: link
+        has_icon: true
+        icon: linkedin
+        icon_position: center
+        new_window: false
+        type: action
+    background_image: images/HS_Connect_Cover.jpg
+    background_image_opacity: 24
+    background_image_position: center center
+    background_image_size: cover
+  - title: Humane Standards Patreons
+    subtitle: ''
+    content: >-
+      Be part of our Patreons Program and Join actively The Humane Standards
+      Family.
+    actions: []
+    video_embed_html: ''
+    media_position: top
+    media_width: fifty
+    align: center
+    padding_top: small
+    padding_bottom: none
+    has_border: false
+    background_color: secondary
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: hero_section
+    image: images/Gift.png
   - type: grid_section
     grid_items:
-      - title: Partnering and Sponsorships
+      - type: grid_item
+        title: Empower
         title_align: center
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam.
+          Empower Simulation Creators who create content for Liberty & Peace for
+          Everyone.
         content_align: center
-        actions:
-          - label: Get Support
-            url: /general-enquiries
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         actions_align: center
-        image: images/classic/icon-1.svg
+        image: images/Empower.svg
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Help & Support
+        subtitle: Liberty & Peace
+      - type: grid_item
+        title: Support
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla.
+        content: Support Habitat Services which sustain Equality & Order for Everyone.
         content_align: center
-        actions:
-          - label: Get Support
-            url: /general-enquiries
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         actions_align: center
-        image: images/classic/icon-2.svg
+        image: images/Support.svg
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Other Queries
+        subtitle: Equality & Order
+      - type: grid_item
+        title: Coexist
         title_align: center
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel.
+          Become a Coexistence Ambassador who promotes Family & Good Governance
+          for Everyone.
         content_align: center
-        actions:
-          - label: Get Support
-            url: /general-enquiries
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         actions_align: center
-        image: images/classic/icon-3.svg
+        image: images/Coexist.svg
         image_position: top
         image_align: center
         image_has_padding: true
+        subtitle: Family & Good Governance
     grid_cols: three
-    grid_gap_horiz: medium
     grid_gap_vert: medium
+    grid_gap_horiz: medium
     enable_cards: true
     align: center
     padding_top: large
     padding_bottom: large
     background_color: primary
+  - title: ''
+    subtitle: ''
+    content: ''
+    actions:
+      - label: Sign Up
+        url: 'https://www.patreon.com/humanestandards'
+        style: secondary
+        has_icon: true
+        icon: arrow-right
+        icon_position: right
+        new_window: true
+        type: action
+    video_embed_html: ''
+    media_position: top
+    media_width: fifty
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: hero_section
 template: advanced
 ---
