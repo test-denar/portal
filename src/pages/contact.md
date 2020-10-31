@@ -134,7 +134,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - title: lorem-ipsum
-    subtitle: ''
+    subtitle: More ways to Connect
     actions: []
     grid_items: []
     grid_cols: two
