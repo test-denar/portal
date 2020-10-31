@@ -148,7 +148,7 @@ sections:
         align: left
         type: feature
     feature_padding_vert: medium
-    align: left
+    align: center
     padding_top: medium
     padding_bottom: none
     has_border: false
