@@ -54,8 +54,8 @@ sections:
           - dolor sit amet
         actions: []
         video_embed_html: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          <script async src="https://telegram.org/js/telegram-widget.js?12"
+          data-telegram-post="humanestandards/4" data-width="100%"></script>
         media_position: top
         media_width: fifty
         align: left
