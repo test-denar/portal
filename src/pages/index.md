@@ -196,9 +196,7 @@ sections:
 
           - dolor sit amet
         actions: []
-        video_embed_html: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        video_embed_html: "Hello World! \U0001F30F\U0001F30D\U0001F30E We are Broadcasting Live from Planet Earth \U0001F601 Join our Family and Receive our News & Updates through this Channel."
         media_position: top
         media_width: fifty
         align: left
