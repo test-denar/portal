@@ -209,7 +209,7 @@ sections:
           - label: Like
             url: 'https://www.facebook.com/humanestandards'
             style: link
-            has_icon: false
+            has_icon: true
             icon: facebook
             icon_position: left
             new_window: true
