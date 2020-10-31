@@ -27,7 +27,7 @@ That Love, which is not based on dependence, self-interest, desire and thought -
 1. Being the Past
 2. Being Present
 3. Being the Future
-
+---
 
 # Humane Sensibility
 
@@ -43,7 +43,7 @@ Sensibility through Time is defined through the following stages:
 4. Self-Testing
 5. Self-Control
 6. Self-Prediction
-
+---
 
 ![](/images/021-clock.svg)
 
@@ -59,7 +59,7 @@ The following explanations define the way that thought can be used in a Practica
 4. Self-Testing is possible when the Simplicity of the Past Tests the Future of the Complexity of the Present.
 5. Self-Control is possible when the Complexity of the Present Controls the Past through the Complexity of the Future.
 6. Self-Prediction is possible when the Complexity of the Future Predicts the Past through the Simplicity of the Present.
-
+---
 
 ![](/images/049-settings.svg)
 
@@ -75,7 +75,7 @@ The aforementioned theorems are based on the ways that we can practically approa
 4. From the Past to the Future and the Present
 5. From the Present to the Past and the Future
 6. From Future to the Past and the Present
-
+---
 
 ![](/images/011-calendar.svg)
 
