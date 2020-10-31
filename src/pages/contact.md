@@ -112,7 +112,7 @@ sections:
     subtitle: ''
     content: ''
     actions:
-      - label: Sign Up
+      - label: Become a Patreon
         url: 'https://www.patreon.com/humanestandards'
         style: secondary
         has_icon: true
