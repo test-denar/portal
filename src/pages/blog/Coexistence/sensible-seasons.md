@@ -1,5 +1,5 @@
 ---
-image_position: left
+image_position: right
 template: post
 title: Sensible Seasons
 subtitle: Output Feedback Rituals for Self-Predictions
