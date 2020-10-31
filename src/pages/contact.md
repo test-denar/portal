@@ -165,7 +165,7 @@ sections:
           https://www.linkedin.com/feed/update/urn:li:activity:6656680167911501824
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Follow
             url: lorem-ipsum
             style: link
             has_icon: false
