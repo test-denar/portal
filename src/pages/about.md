@@ -109,7 +109,7 @@ sections:
     actions: []
     grid_items:
       - title: D. Self-Testing
-        subtitle: Economy | meta-communities
+        subtitle: Economy & meta-communities
         title_align: left
         content: >-
           ## Lorem ipsum
