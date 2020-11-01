@@ -57,7 +57,7 @@
                 "type": "action"
             }
         ],
-        "has_anncmnt": false,
+        "has_anncmnt": true,
         "anncmnt_content": "Play",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": false,
