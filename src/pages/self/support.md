@@ -86,7 +86,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - title: 1. Deployment Control Topics
-    subtitle: Capabilities Services
+    subtitle: Defining our Capabilities Services
     actions: []
     blog_feed_cols: three
     enable_cards: true
