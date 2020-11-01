@@ -50,7 +50,7 @@ sections:
         image_has_padding: true
         subtitle: Our Deployment Control
       - type: grid_item
-        title: Self-Testing Challenges
+        title: Self-Testing
         title_align: left
         content: ''
         content_align: left
