@@ -80,7 +80,7 @@ sections:
           principles that drive Ethical and therefore Humane Science and Design
           forward.
         image: images/042-creative thinking.svg
-        media_position: left
+        media_position: right
         media_width: fifty
       - type: feature
         title: C. Self-Consensus
