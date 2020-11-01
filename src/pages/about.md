@@ -102,6 +102,7 @@ sections:
         image: images/013-lanscape.svg
         media_position: left
         media_width: fifty
+        align: center
     background_color: secondary
     feature_padding_vert: small
   - title: ''
