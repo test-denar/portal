@@ -3,7 +3,7 @@ image_position: left
 template: post
 title: Sensible Times
 subtitle: Output Feedback Rituals for Self-Predictions
-date: '2020-10-28T22:00:00.000+00:00'
+date: '2020-11-01'
 author: src/data/team/adam-apricot.yaml
 categories:
   - src/data/categories/rituals.yaml
