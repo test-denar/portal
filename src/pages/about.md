@@ -64,7 +64,7 @@ sections:
         image: images/034-design thinking.svg
         media_position: left
         media_width: fifty
-        align: right
+        align: center
       - type: feature
         title: B. Self-Adaptation
         subtitle: Ecophysiology & meta-governance
