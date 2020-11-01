@@ -136,7 +136,9 @@ sections:
       - title: E. Self-Control
         subtitle: Ecosystem & meta-operations
         title_align: left
-        content: Our Ecosystem is a Self-Controlled network of meta-operations.
+        content: >-
+          Our Ecosystem, including our own Organic System is a Self-Controlled
+          network of meta-operations.
         content_align: left
         actions: []
         actions_align: left
