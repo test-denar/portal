@@ -49,7 +49,7 @@ sections:
       Prescriptive Pathogenesis (from the Greek πάθος pathos = passion, disease
       and γένεσις genesis =birth), is a form of Intuitive Guidance, that is
       based on our Reflexes - surrounding the Source and Resources of our
-      Problems. Our Prescriptions are based upon:
+      Problems. Our Prescriptions are based upon our:
     grid_items:
       - type: grid_item
         title: Self-Description
