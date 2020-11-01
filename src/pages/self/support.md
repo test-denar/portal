@@ -38,7 +38,7 @@ sections:
       Descriptions are based upon our:
     grid_items:
       - type: grid_item
-        title: Self-Consensus Topics
+        title: Self-Consensus
         title_align: left
         content: ''
         content_align: left
