@@ -104,7 +104,7 @@ sections:
         media_width: fifty
     background_color: secondary
     feature_padding_vert: small
-  - title: ''
+  - title: E. Self-Control
     subtitle: ''
     actions: []
     grid_items:
