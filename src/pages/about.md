@@ -43,9 +43,9 @@ sections:
           and Practical Design Features.
 
 
-          These meta-Aesthetic Measures, which are not based on opinions,
-          strategies, or other self-invented choices that we make, define the
-          Description of our Ecosphere.
+          These meta-Aesthetic Measures (The Aesthetics of the Aesthetics),
+          which are not based on opinions, strategies, or other self-invented
+          choices that we make, define the Description of our Ecosphere.
 
 
           Sensible Ecosphere (from Greek οἶκος oîkos "environment", and σφαῖρα
@@ -61,9 +61,10 @@ sections:
           fulfilling life, we ought to understand first that this Ecosphere is
           our Self-Description.
 
-        image: images/HD Main Pic.jpg
+        image: images/034-design thinking.svg
         media_position: left
         media_width: fifty
+        align: center
       - type: feature
         title: B. Self-Adaptation
         subtitle: Ecophysiology & meta-governance
@@ -79,9 +80,10 @@ sections:
           outer Environment. These are the physiological and psychological
           principles that drive Ethical and therefore Humane Science and Design
           forward.
-        image: images/HA Main Pic.jpg
-        media_position: left
+        image: images/008-planet.svg
+        media_position: right
         media_width: fifty
+        align: center
       - type: feature
         title: C. Self-Consensus
         subtitle: Ecocentrism & meta-interfaces
@@ -99,11 +101,85 @@ sections:
           Source of all other forms of Management. This is only Possible because
           of the Design of our own body, and not the fascinations of our
           Intellect.
-        image: images/square-saturn.jpg
+        image: images/013-lanscape.svg
         media_position: left
         media_width: fifty
+        align: center
     background_color: secondary
     feature_padding_vert: small
+    subtitle: >-
+      The prefix  Meta- (from the Greek μετά, meaning "beyond") is used to mean
+      "about its own category". For example, meta-intelligence is the
+      intelligence concerning the intelligence itself.
+    title: SOCIOTECHNICAL META-INTELLIGENCE
+    padding_top: large
+  - title: ''
+    subtitle: ''
+    actions: []
+    grid_items:
+      - title: D. Self-Testing
+        subtitle: Economy & meta-communities
+        title_align: left
+        content: >-
+          To test our powers and limits, we invent sociotechnical
+          meta-communities which are called Economies.
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_position: top
+        image_width: twenty-five
+        image_align: left
+        image_has_padding: true
+        type: grid_item
+        image: images/testing.svg
+      - title: E. Self-Control
+        subtitle: Ecosystem & meta-operations
+        title_align: left
+        content: >-
+          Our Ecosystem, including our own Organic System is a Self-Controlled
+          network of meta-operations.
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: true
+        type: grid_item
+        image: images/controling.svg
+      - title: E. Self-Prediction
+        subtitle: Ecogeneration & meta-environments
+        title_align: left
+        content: >-
+          Ecogenerations, or what we call as Families are Self-Predicted
+          formations of meta-environments and the last level of our
+          Self-Governance.
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: true
+        type: grid_item
+        image: images/predicting.svg
+    grid_cols: three
+    grid_gap_vert: small
+    grid_gap_horiz: small
+    enable_cards: true
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: secondary
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: grid_section
   - title: Sensible Coexistence
     subtitle: The Best approach is always the Kind One
     content: >-
@@ -211,7 +287,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     has_border: false
-    background_color: primary
+    background_color: secondary
     background_image_opacity: 0
     background_image_size: cover
     background_image_position: center center

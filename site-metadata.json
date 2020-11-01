@@ -57,13 +57,50 @@
                 "type": "action"
             }
         ],
-        "has_anncmnt": false,
-        "anncmnt_content": "Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn More](/pricing/)**",
+        "has_anncmnt": true,
+        "anncmnt_content": "Welcome to our NEW Website :)",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features",
         "logo": "/images/humane-standards-icon.png"
     },
-    "title": "Humane Standards"
+    "title": "Humane Standards",
+    "footer": {
+        "has_primary_nav": false,
+        "primary_nav_title": "",
+        "primary_nav_links": [],
+        "has_secondary_nav": false,
+        "secondary_nav_title": "",
+        "secondary_nav_links": [],
+        "has_tertiary_nav": false,
+        "tertiary_nav_title": "",
+        "tertiary_nav_links": [],
+        "has_social": false,
+        "social_links": [],
+        "content": "Humane Standards 2020 |_",
+        "links": [
+            {
+                "label": "CC BY-SA 4.0 |",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "type": "action"
+            },
+            {
+                "label": " Privacy Policy",
+                "url": "privacy-policy",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "type": "action"
+            }
+        ],
+        "type": "footer"
+    }
 }

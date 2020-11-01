@@ -34,10 +34,11 @@ sections:
     subtitle: >-
       Through Descriptive Allostasis (from the Greek prefix ἄλλος, állos, =
       other + the suffix στάσις, stasis = static, standing still). It is the
-      Process of achieving stability, through outsourced Guidance.
+      Process of achieving stability, through outsourced Guidance. Our
+      Descriptions are based upon our:
     grid_items:
       - type: grid_item
-        title: Self-Consensus Topics
+        title: Deployment Control
         title_align: left
         content: ''
         content_align: left
@@ -47,9 +48,9 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-        subtitle: Our Deployment Control
+        subtitle: Our Self-Consensus
       - type: grid_item
-        title: Self-Testing Challenges
+        title: Modeling Classification
         title_align: left
         content: ''
         content_align: left
@@ -60,7 +61,7 @@ sections:
         image_align: left
         image_has_padding: true
         image_width: twenty-five
-        subtitle: Our Modeling Classification
+        subtitle: Our Self-Testing
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
@@ -84,8 +85,8 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - title: 1. Deployment Control Topics
-    subtitle: Capabilities Services
+  - title: 1. Self-Consensus Topics
+    subtitle: Defining our Capability Services
     actions: []
     blog_feed_cols: three
     enable_cards: true
@@ -107,8 +108,8 @@ sections:
     background_image_repeat: no-repeat
     type: blog_feed_section
     category: src/data/categories/topics.json
-  - title: 2. Modeling Classification Challenges
-    subtitle: Response Services
+  - title: 2. Self-Testing Challenges
+    subtitle: Defining our Response Services
     actions: []
     blog_feed_cols: three
     enable_cards: true

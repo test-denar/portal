@@ -7,6 +7,7 @@ module.exports = {
         `gatsby-plugin-react-helmet`,
         `gatsby-source-data`,
         `gatsby-transformer-remark`,
+        'gatsby-plugin-favicons',
         {
             resolve: `gatsby-source-filesystem`,
             options: {
@@ -28,6 +29,23 @@ module.exports = {
                 sourceUrlPath: `fields.url`,
                 pageContextProperty: `menus`,
             }
-        }
+        },
+        {
+    resolve: 'gatsby-plugin-favicons',
+    options: {
+      logo: './src/logo.png',
+      appName: 'Humane Standards',
+      background: '#00FFFF',
+      icons: {
+        android: true,
+        appleIcon: true,
+        appleStartup: true,
+        coast: false,
+        favicons: true,
+        yandex: false,
+        windows: true
+      }
+    }
+  }
     ]
 };

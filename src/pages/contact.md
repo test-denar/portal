@@ -122,7 +122,7 @@ sections:
         type: action
     video_embed_html: ''
     media_position: top
-    media_width: fifty
+    media_width: fourty
     align: center
     padding_top: medium
     padding_bottom: medium
@@ -248,8 +248,8 @@ sections:
         new_window: true
         type: action
     video_embed_html: ''
-    media_position: top
-    media_width: fifty
+    media_position: left
+    media_width: fourty
     align: left
     padding_top: none
     padding_bottom: none
@@ -260,5 +260,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    image: images/HSPG-Paperback-Mockup.png
 template: advanced
 ---

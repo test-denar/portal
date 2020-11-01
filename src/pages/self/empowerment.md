@@ -46,13 +46,13 @@ sections:
   - type: grid_section
     title: How?
     subtitle: >-
-      Through Prescriptive Pathogenesis (from the Greek πάθος pathos = passion,
-      disease and γένεσις genesis =birth), is a form of Intuitive Guidance, that
-      is based on our Reflexes - surrounding the Source and Resources of our
-      Problems.
+      Prescriptive Pathogenesis (from the Greek πάθος pathos = passion, disease
+      and γένεσις genesis =birth), is a form of Intuitive Guidance, that is
+      based on our Reflexes - surrounding the Source and Resources of our
+      Problems. Our Prescriptions are based upon our:
     grid_items:
       - type: grid_item
-        title: Self-Description
+        title: Input Feedback
         title_align: left
         content: ''
         content_align: left
@@ -62,9 +62,9 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-        subtitle: Our Input Feedback
+        subtitle: Our Self-Description
       - type: grid_item
-        title: Self-Adaptation
+        title: Indexing Evaluation
         title_align: left
         content: ''
         content_align: left
@@ -75,7 +75,7 @@ sections:
         image_align: left
         image_has_padding: true
         image_width: twenty-five
-        subtitle: Our Indexing Evaluation
+        subtitle: Our Self-Adaptation
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
@@ -101,7 +101,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - title: 1. Input Feedback Ingredients
-    subtitle: Empowerment Services
+    subtitle: Defining our Empowerment Services
     actions: []
     blog_feed_cols: three
     enable_cards: true
@@ -124,7 +124,7 @@ sections:
     type: blog_feed_section
     category: src/data/categories/ingredients.json
   - title: 2. Indexing Evaluation Journals
-    subtitle: Resources Services
+    subtitle: Defining our Resources Services
     actions: []
     blog_feed_cols: three
     enable_cards: true

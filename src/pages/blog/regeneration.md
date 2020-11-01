@@ -1,17 +1,16 @@
 ---
 title: Regeneration
 subtitle: A new Portal for Self-Governance
-date: 2020-04-16
+date: '2020-04-16'
 author: src/data/team/adam-apricot.yaml
 categories:
-- src/data/categories/general.json
+  - src/data/categories/general.json
 excerpt: A new Portal for Self-Governance through the Humane Standards.
-thumb_image: "/images/PostCover_Regeneration.png"
-image: "/images/PostCover_Regeneration.png"
-image_position: right
+thumb_image: /images/PostCover_Regeneration.png
+image: /images/PostCover_Regeneration.png
+image_position: left
 template: post
 tags: {}
-
 ---
 # Humane Standards Portal
 

@@ -45,10 +45,10 @@ sections:
     subtitle: >-
       Through Predictive Morphogenesis (from the Greek morphê = shape and
       genesis = birth) is the probabilistic science that causes the development
-      of bio-certified models.
+      of bio-certified models. Our Predictions are based upon our:
     grid_items:
       - type: grid_item
-        title: Self-Control
+        title: Memory Allocation
         title_align: left
         content: ''
         content_align: left
@@ -58,9 +58,9 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-        subtitle: Our Memory Allocation
+        subtitle: Our Self-Control
       - type: grid_item
-        title: Self-Predictions
+        title: Output Feedback
         title_align: left
         content: ''
         content_align: left
@@ -71,7 +71,7 @@ sections:
         image_align: left
         image_has_padding: true
         image_width: twenty-five
-        subtitle: Our Output Feedback
+        subtitle: Our Self-Predictions
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
@@ -95,8 +95,8 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - title: 1. Memory Allocation Recipes
-    subtitle: Production Services
+  - title: 1. Self-Control Recipes
+    subtitle: Defining our Production Services
     actions: []
     blog_feed_cols: three
     enable_cards: true
@@ -118,8 +118,8 @@ sections:
     background_image_repeat: no-repeat
     type: blog_feed_section
     category: src/data/categories/recipes.json
-  - title: 2. Output Feedback Rituals
-    subtitle: Habitat Services
+  - title: 2. Self-Predictions Rituals
+    subtitle: Defining our Habitat Services
     actions: []
     blog_feed_cols: three
     enable_cards: true
