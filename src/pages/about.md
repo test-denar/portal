@@ -123,7 +123,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/test.png
+        image: images/testing.svg
       - title: E. Self-Control
         subtitle: Ecosystem & meta-operations
         title_align: left
