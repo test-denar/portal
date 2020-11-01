@@ -82,6 +82,7 @@ sections:
         image: images/008-planet.svg
         media_position: right
         media_width: fifty
+        align: center
       - type: feature
         title: C. Self-Consensus
         subtitle: Ecocentrism & meta-interfaces
