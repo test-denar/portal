@@ -107,7 +107,7 @@ sections:
     feature_padding_vert: small
     subtitle: >-
       The prefix  Meta- (from the Greek μετά, meaning "beyond") is used to mean
-      "about (its own category). For example, meta-intelligence is the
+      "about its own category). For example, meta-intelligence is the
       intelligence concerning the intelligence itself.
     title: SOCIOTECHNICAL META-INTELLIGENCE
     padding_top: large
