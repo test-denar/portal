@@ -151,7 +151,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: E. Self-Prediction
-        subtitle: lorem-ipsum
+        subtitle: Ecogeneration & meta-environments
         title_align: left
         content: >-
           ## Lorem ipsum
