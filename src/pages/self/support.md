@@ -108,7 +108,7 @@ sections:
     background_image_repeat: no-repeat
     type: blog_feed_section
     category: src/data/categories/topics.json
-  - title: 2. Modeling Classification Challenges
+  - title: 2. Self-Testing Challenges
     subtitle: Defining our Response Services
     actions: []
     blog_feed_cols: three
