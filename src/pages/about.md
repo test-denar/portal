@@ -105,7 +105,7 @@ sections:
     background_color: secondary
     feature_padding_vert: small
   - title: ''
-    subtitle: lorem-ipsum
+    subtitle: ''
     actions: []
     grid_items:
       - title: lorem-ipsum
