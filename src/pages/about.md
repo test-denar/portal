@@ -61,7 +61,7 @@ sections:
           fulfilling life, we ought to understand first that this Ecosphere is
           our Self-Description.
 
-        image: images/HD Main Pic.jpg
+        image: images/008-planet.svg
         media_position: left
         media_width: fifty
       - type: feature
