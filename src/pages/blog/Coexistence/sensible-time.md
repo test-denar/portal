@@ -8,7 +8,7 @@ author: src/data/team/adam-apricot.yaml
 categories:
   - src/data/categories/rituals.yaml
 tags: []
-excerpt: Sensible Times are the ones on which we are fully present.
+excerpt: 'Approach Time Sensibly, and learn how to solve problems from their source.'
 thumb_image: /images/hs_time_cover.jpg
 image: /images/hs_time_cover.jpg
 ---
