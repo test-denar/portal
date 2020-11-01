@@ -119,7 +119,7 @@ sections:
     type: blog_feed_section
     category: src/data/categories/recipes.json
   - title: 2. Output Feedback Rituals
-    subtitle: Habitat Services
+    subtitle: Defining our Habitat Services
     actions: []
     blog_feed_cols: three
     enable_cards: true
