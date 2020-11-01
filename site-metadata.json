@@ -79,7 +79,18 @@
         "has_social": true,
         "social_links": [],
         "content": "Humane Standards 2020",
-        "links": [],
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "lorem-ipsum",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "type": "action"
+            }
+        ],
         "type": "footer"
     }
 }
