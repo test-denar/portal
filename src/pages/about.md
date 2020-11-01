@@ -105,7 +105,7 @@ sections:
     background_color: secondary
     feature_padding_vert: small
   - title: E. Self-Control
-    subtitle: Ecosystem | meta-operations
+    subtitle: Ecosystem  meta-operations
     actions: []
     grid_items:
       - title: D. Self-Testing
