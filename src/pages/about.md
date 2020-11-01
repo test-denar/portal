@@ -106,8 +106,9 @@ sections:
     background_color: secondary
     feature_padding_vert: small
     subtitle: >-
-      the prefix meta- is used to mean about (its own category). For example,
-      metadata are data about data
+      The prefix  Meta- (from the Greek μετά, meaning "beyond") is used to mean
+      about (its own category). For example, meta-intelligence is the
+      intelligence concerning the intelligence itself.
     title: SOCIOTECHNICAL META-INTELLIGENCE
     padding_top: large
   - title: ''
