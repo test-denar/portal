@@ -105,6 +105,9 @@ sections:
         align: center
     background_color: secondary
     feature_padding_vert: small
+    subtitle: >-
+      the prefix meta- is used to mean about (its own category). For example,
+      metadata are data about data
   - title: ''
     subtitle: ''
     actions: []
