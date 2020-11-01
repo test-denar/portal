@@ -58,7 +58,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-        subtitle: Our Memory Allocation
+        subtitle: 'Our '
       - type: grid_item
         title: Self-Predictions
         title_align: left
