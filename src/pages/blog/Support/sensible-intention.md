@@ -1,5 +1,5 @@
 ---
-image_position: right
+image_position: left
 template: post
 title: Sensible Intention
 subtitle: Deployment Control Topics for Self-Consensus
