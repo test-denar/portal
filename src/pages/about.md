@@ -111,7 +111,9 @@ sections:
       - title: D. Self-Testing
         subtitle: Economy & meta-communities
         title_align: left
-        content: ''
+        content: >-
+          To test our powers and limits, we form meta-communities which are
+          called Economies.
         content_align: left
         actions: []
         actions_align: left
