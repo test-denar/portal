@@ -150,7 +150,8 @@ sections:
         title_align: left
         content: >-
           Ecogenerations, or what we call as Families are Self-Predicted
-          formations of meta-environments and the last level of Self-Governance.
+          formations of meta-environments and the last level of our
+          Self-Governance.
         content_align: left
         actions: []
         actions_align: left
