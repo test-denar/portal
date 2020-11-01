@@ -46,9 +46,9 @@ sections:
   - type: grid_section
     title: How?
     subtitle: >-
-      Through Prescriptive Pathogenesis (from the Greek πάθος pathos = passion,
-      disease and γένεσις genesis =birth), is a form of Intuitive Guidance, that
-      is based on our Reflexes - surrounding the Source and Resources of our
+      Prescriptive Pathogenesis (from the Greek πάθος pathos = passion, disease
+      and γένεσις genesis =birth), is a form of Intuitive Guidance, that is
+      based on our Reflexes - surrounding the Source and Resources of our
       Problems.
     grid_items:
       - type: grid_item
