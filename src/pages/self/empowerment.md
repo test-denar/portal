@@ -52,7 +52,7 @@ sections:
       Problems. Our Prescriptions are based upon our:
     grid_items:
       - type: grid_item
-        title: Self-Description
+        title: Input FeedbackSelf-Description
         title_align: left
         content: ''
         content_align: left
