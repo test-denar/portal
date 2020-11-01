@@ -99,7 +99,7 @@ sections:
           Source of all other forms of Management. This is only Possible because
           of the Design of our own body, and not the fascinations of our
           Intellect.
-        image: images/square-saturn.jpg
+        image: images/013-lanscape.svg
         media_position: left
         media_width: fifty
     background_color: secondary
