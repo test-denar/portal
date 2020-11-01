@@ -38,7 +38,7 @@ sections:
       Descriptions are based upon our:
     grid_items:
       - type: grid_item
-        title: Deployment ControlSelf-Consensus
+        title: Deployment Control
         title_align: left
         content: ''
         content_align: left
