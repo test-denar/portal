@@ -137,6 +137,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/controling.svg
       - title: E. Self-Prediction
         subtitle: Ecogeneration & meta-environments
         title_align: left
