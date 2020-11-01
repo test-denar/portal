@@ -92,7 +92,7 @@
             },
             {
                 "label": " Privacy Policy",
-                "url": "lorem-ipsum",
+                "url": "privacy-policy",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
