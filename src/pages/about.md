@@ -43,9 +43,9 @@ sections:
           and Practical Design Features.
 
 
-          These meta-Aesthetic Measures, which are not based on opinions,
-          strategies, or other self-invented choices that we make, define the
-          Description of our Ecosphere.
+          These meta-Aesthetic Measures (The Aesthetics of the Aesthetics),
+          which are not based on opinions, strategies, or other self-invented
+          choices that we make, define the Description of our Ecosphere.
 
 
           Sensible Ecosphere (from Greek οἶκος oîkos "environment", and σφαῖρα
