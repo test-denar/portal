@@ -109,6 +109,7 @@ sections:
       the prefix meta- is used to mean about (its own category). For example,
       metadata are data about data
     title: SOCIOTECHNICAL META-INTELLIGENCE
+    padding_top: medium
   - title: ''
     subtitle: ''
     actions: []
