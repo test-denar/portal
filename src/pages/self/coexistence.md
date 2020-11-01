@@ -118,7 +118,7 @@ sections:
     background_image_repeat: no-repeat
     type: blog_feed_section
     category: src/data/categories/recipes.json
-  - title: 2. Output Feedback Rituals
+  - title: 2. Self-Predictions Rituals
     subtitle: Defining our Habitat Services
     actions: []
     blog_feed_cols: three
