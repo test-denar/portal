@@ -71,7 +71,7 @@ sections:
         image_align: left
         image_has_padding: true
         image_width: twenty-five
-        subtitle: Our Output Feedback
+        subtitle: 'Our '
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
