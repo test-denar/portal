@@ -96,7 +96,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - title: 1. Memory Allocation Recipes
-    subtitle: Production Services
+    subtitle: Defining our Production Services
     actions: []
     blog_feed_cols: three
     enable_cards: true
