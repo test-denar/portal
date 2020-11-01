@@ -8,7 +8,7 @@ author: src/data/team/adam-apricot.yaml
 categories:
   - src/data/categories/rituals.yaml
 tags: []
-excerpt: Sensible Times are the Responsibly.
+excerpt: Sensible Times are the Responsible ones.
 thumb_image: /images/hs_time_cover.jpg
 image: /images/hs_time_cover.jpg
 ---
