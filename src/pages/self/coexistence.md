@@ -95,7 +95,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - title: 1. Memory Allocation Recipes
+  - title: 1. Self-Control Recipes
     subtitle: Defining our Production Services
     actions: []
     blog_feed_cols: three
