@@ -64,7 +64,7 @@ sections:
         image_has_padding: true
         subtitle: Our Self-Description
       - type: grid_item
-        title: Self-Adaptation
+        title: Indexing EvaluationSelf-Adaptation
         title_align: left
         content: ''
         content_align: left
