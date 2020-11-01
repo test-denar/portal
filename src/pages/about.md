@@ -121,8 +121,8 @@ sections:
         subtitle: Economy & meta-communities
         title_align: left
         content: >-
-          To test our powers and limits, we form meta-communities which are
-          called Economies.
+          To test our powers and limits, we invent sociotechnical
+          meta-communities which are called Economies.
         content_align: left
         actions: []
         actions_align: left
