@@ -101,7 +101,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - title: 1. Input Feedback Ingredients
-    subtitle: Empowerment Services
+    subtitle: Defining our Empowerment Services
     actions: []
     blog_feed_cols: three
     enable_cards: true
