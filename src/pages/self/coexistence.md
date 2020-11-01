@@ -48,7 +48,7 @@ sections:
       of bio-certified models. Our Predictions are based upon our:
     grid_items:
       - type: grid_item
-        title: Self-Control
+        title: Memory AllocationSelf-Control
         title_align: left
         content: ''
         content_align: left
