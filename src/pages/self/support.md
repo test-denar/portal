@@ -85,7 +85,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - title: 1. Deployment Control Topics
+  - title: 1. Self-Consensus Topics
     subtitle: Defining our Capability Services
     actions: []
     blog_feed_cols: three
