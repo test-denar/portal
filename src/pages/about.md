@@ -130,7 +130,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
+        subtitle: Ecosystem & meta-operations
         title_align: left
         content: >-
           ## Lorem ipsum
