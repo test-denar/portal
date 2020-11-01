@@ -1,5 +1,5 @@
 ---
-image_position: right
+image_position: left
 template: post
 title: Sensible Attention
 subtitle: Indexing Evaluation Journals for Self-Adaptation
