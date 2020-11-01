@@ -109,7 +109,7 @@ sections:
     type: blog_feed_section
     category: src/data/categories/topics.json
   - title: 2. Modeling Classification Challenges
-    subtitle: Response Services
+    subtitle: Defining our Response Services
     actions: []
     blog_feed_cols: three
     enable_cards: true
