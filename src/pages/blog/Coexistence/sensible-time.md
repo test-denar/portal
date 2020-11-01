@@ -8,7 +8,7 @@ author: src/data/team/adam-apricot.yaml
 categories:
   - src/data/categories/rituals.yaml
 tags: []
-excerpt: Sensible Times is a way to approach our own nature Responsibly.
+excerpt: Sensible Times are an approach our own nature Responsibly.
 thumb_image: /images/hs_time_cover.jpg
 image: /images/hs_time_cover.jpg
 ---
