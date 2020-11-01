@@ -48,7 +48,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-        subtitle: 'Our '
+        subtitle: Our Self-Consensus
       - type: grid_item
         title: Self-Testing
         title_align: left
