@@ -45,7 +45,7 @@ sections:
     subtitle: >-
       Through Predictive Morphogenesis (from the Greek morphê = shape and
       genesis = birth) is the probabilistic science that causes the development
-      of bio-certified models. Our Prescriptions are based upon our:
+      of bio-certified models. Our Predictions are based upon our:
     grid_items:
       - type: grid_item
         title: Self-Control
