@@ -79,7 +79,7 @@ sections:
           outer Environment. These are the physiological and psychological
           principles that drive Ethical and therefore Humane Science and Design
           forward.
-        image: images/042-creative thinking.svg
+        image: images/013-lanscape.svg
         media_position: right
         media_width: fifty
       - type: feature
