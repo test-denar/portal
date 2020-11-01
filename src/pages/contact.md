@@ -248,7 +248,7 @@ sections:
         new_window: true
         type: action
     video_embed_html: ''
-    media_position: top
+    media_position: left
     media_width: fourty
     align: left
     padding_top: none
