@@ -60,7 +60,7 @@ sections:
         image_has_padding: true
         subtitle: Our Self-Control
       - type: grid_item
-        title: Self-Predictions
+        title: Output FeedbackSelf-Predictions
         title_align: left
         content: ''
         content_align: left
