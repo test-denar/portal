@@ -124,7 +124,7 @@ sections:
     type: blog_feed_section
     category: src/data/categories/ingredients.json
   - title: 2. Indexing Evaluation Journals
-    subtitle: Resources Services
+    subtitle: Defining our Resources Services
     actions: []
     blog_feed_cols: three
     enable_cards: true
