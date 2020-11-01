@@ -50,7 +50,7 @@ sections:
         image_has_padding: true
         subtitle: Our Self-Consensus
       - type: grid_item
-        title: Self-Testing
+        title: Modeling ClassificationSelf-Testing
         title_align: left
         content: ''
         content_align: left
