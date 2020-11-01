@@ -35,7 +35,7 @@ sections:
       Through Descriptive Allostasis (from the Greek prefix ἄλλος, állos, =
       other + the suffix στάσις, stasis = static, standing still). It is the
       Process of achieving stability, through outsourced Guidance. Our
-      Prescriptions are based upon our:
+      Descriptions are based upon our:
     grid_items:
       - type: grid_item
         title: Self-Consensus Topics
