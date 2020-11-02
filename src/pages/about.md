@@ -61,7 +61,7 @@ sections:
           fulfilling life, we ought to understand first that this Ecosphere is
           our Self-Description.
 
-        image: images/034-design thinking.svg
+        image: images/042-creative thinking.svg
         media_position: left
         media_width: fifty
         align: center
