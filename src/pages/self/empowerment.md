@@ -27,7 +27,7 @@ sections:
       and Coherence is only Possible when Peace reigns.
 
 
-      ⚡Self-Empowerment⚡ allow us to embrace our Physical Liberties, and bring
+      ⚡Self-Empowerment⚡ allows us to embrace our Physical Liberties, and bring
       Peace to the World.
     actions: []
     video_embed_html: ''
